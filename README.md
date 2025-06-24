@@ -1,7 +1,7 @@
 # BouncifyPro - Email Validation & Lead Management Platform
 
 <div align="center">
-  <img src="src/assets/img/logo-dark.png" alt="BouncifyPro Logo" width="200"/>
+  <img src="logo-alt.png" alt="BouncifyPro Logo" width="200"/>
   
   [![Version](https://img.shields.io/badge/version-v1.2.5-blue.svg)](https://coderstm.com/pages/bouncifypro)
   [![License](https://img.shields.io/badge/license-Commercial-green.svg)](https://coderstm.com/pages/bouncifypro)
