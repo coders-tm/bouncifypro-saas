@@ -72,21 +72,6 @@ Experience BouncifyPro in action:
 - Free lifetime updates
 - Fast, dedicated, and professional support
 
-## 💰 Pricing & Licensing
-
-### One-Time License Options
-
-| License Type | Price | Features | Refund Policy |
-|--------------|-------|----------|---------------|
-| **Regular** | $249 | Encoded source code, Lifetime updates, Basic support | 30-day money-back guarantee |
-| **Extended** | $649 | Full source code, Self-customization, Lifetime updates | No refunds (full source provided) |
-
-**Optional Installation Fee:** $99 (One-time setup assistance)
-
-### 🛍️ Purchase Links
-- [Regular License](https://coderstm.gumroad.com/l/bouncifypro?variant=Regular&wanted=true)
-- [Extended License](https://coderstm.gumroad.com/l/bouncifypro?variant=Extended&wanted=true)
-
 ## 🔧 Customization
 
 ### Available Customizations (Extended License)
@@ -124,7 +109,7 @@ This project is commercially licensed. Please purchase a license before use:
   <p>Made with ❤️ by <a href="https://coderstm.com">Coderstm</a></p>
   <p>
     <a href="https://bouncifypro.com">🌐 Live Demo</a> •
-    <a href="https://coderstm.gumroad.com/l/bouncifypro">🛒 Purchase</a> •
+    <a href="https://coderstm.com/products/bouncify">🛒 Purchase</a> •
     <a href="mailto:hello@coderstm.com">📧 Contact</a>
   </p>
 </div>
